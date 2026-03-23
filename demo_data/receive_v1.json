@@ -1,0 +1,27 @@
+{
+  "schema": "2.0",
+  "event_id": "f029af8c662bfee9309171f8218062d6",
+  "token": "",
+  "create_time": "1774191671599",
+  "event_type": "im.message.receive_v1",
+  "tenant_key": "1413246cb7021758",
+  "app_id": "cli_a93413b8ddb85bdd",
+  "message": {
+    "chat_id": "oc_a7961aef52872aee90d84095e53487c0",
+    "chat_type": "p2p",
+    "content": "{\"text\":\"你好\"}",
+    "create_time": "1774191671267",
+    "message_id": "om_x100b53340dbf00a0b2979419d826965",
+    "message_type": "text",
+    "update_time": "1774191671267"
+  },
+  "sender": {
+    "sender_id": {
+      "open_id": "ou_290f979752b9ec42a117fa6978c6d008",
+      "union_id": "on_b43ace95a99f4aee526110565f05780c",
+      "user_id": "ag738cae"
+    },
+    "sender_type": "user",
+    "tenant_key": "1413246cb7021758"
+  }
+}

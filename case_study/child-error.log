@@ -1,0 +1,6 @@
+Debugger listening on ws://127.0.0.1:4118/af16deba-78d2-43a7-99c8-1533be99259b
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+child err: hello
+child err: world
+Waiting for the debugger to disconnect...
